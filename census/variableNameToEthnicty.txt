@@ -1,0 +1,67 @@
+B02001_003E	Black or African American alone 
+B02015_001E	Asian alone 
+B02015_002E	Asian Indian alone
+B02015_003E	Bangladeshi alone 
+B02015_005E	Burmese alone 
+B02015_006E	Cambodian alone 
+B02015_007E	Chinese alone 
+B02015_008E	Filipino alone 
+B02015_010E	Indonesian alone 
+B02015_011E	Japanese alone 
+B02015_012E	Korean alone
+B02015_013E	Laotian alone 
+B02015_014E	Malaysian alone 
+B02015_015E	Mongolian alone 
+B02015_016E	Nepalese alone 
+B02015_018E	Pakistani alone 
+B02015_019E	Sri Lankan alone
+B02015_021E	Thai alone 
+B02015_022E	Vietnamese alone 
+B02016_001E	Native Hawaiian and Other Pacific Islander alone
+B03001_004E	Mexican 
+B03001_005E	Puerto Rican 
+B03001_006E	Cuban 
+B03001_007E	Dominican Dominican Republic 
+B03001_008E	Central American (excludes Mexican)
+B03001_016E	South American
+B03001_028E	Spaniard 
+B04006_002E	Afghan 
+B04006_005E	American 
+B04006_006E	Arab (all groups)
+B04006_016E	Armenian 
+B04006_018E	Australian 
+B04006_019E	Austrian 
+B04006_020E	Basque
+B04006_021E	Belgian
+B04006_022E	Brazilian 
+B04006_023E	British 
+B04006_024E	Bulgarian
+B04006_025E	Cajun 
+B04006_026E	Canadian
+B04006_029E	Croatian 
+B04006_031E	Czech 
+B04006_032E	Czechoslovakian
+B04006_033E	Danish
+B04006_038E	European 
+B04006_040E	French (except Basque)
+B04006_042E	German
+B04006_044E	Greek
+B04006_046E	Hungarian 
+B04006_048E	Iranian 
+B04006_049E	Irish 
+B04006_050E	Israeli 
+B04006_051E	Italian 
+B04006_057E	New Zealander
+B04006_059E	Norwegian
+B04006_061E	Polish 
+B04006_062E	Portuguese 
+B04006_063E	Romanian 
+B04006_064E	Russian 
+B04006_065E	Scandinavian
+B04006_067E	Scottish 
+B04006_073E	Subsaharan African (all groups)
+B04006_089E	Swedish 
+B04006_090E	Swiss 
+B04006_091E	Turkish
+B04006_092E	Ukrainian
+B04006_107E	Yugoslavian 
